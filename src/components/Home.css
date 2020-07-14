@@ -1,0 +1,24 @@
+html,
+body {
+  height: 100%;
+}
+.purple-square-container {
+    
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+    height:100vh;
+  }
+  
+  
+  .purple-square {
+    background-color:#e6e4e3;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+  }
